@@ -1,4 +1,8 @@
-Scala starter pack for the Vindinium AI challenge
+
+A fork of the official [vindinium-starter-scala](https://github.com/ornicar/vindinium-starter-scala)
+but including Game Logic of the [vindinium](https://github.com/ornicar/vindinium) server.
+
+---
 
 ## Develop / run
 
